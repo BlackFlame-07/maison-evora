@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.Bi-D_2cA.mjs";function t(e,t){return{description:`Maison Evora is a renowned commercial interior design firm with locations both in England & Vietnam.`,favicon:`https://framerusercontent.com/assets/fxcksJtQj7PiNA37vsT1Gemy8w.png`,robots:`max-image-preview:large`,socialImage:`https://framerusercontent.com/assets/cako8P0dqF66MkskewYv6dfec.png`,title:`Maison Evora`}}function n(){return(n=e((()=>{})))()}export{t as n,n as t};
+//# sourceMappingURL=shared-lib.FPhqneHy.mjs.map

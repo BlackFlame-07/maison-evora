@@ -1,0 +1,23 @@
+{
+  "name": "maison-evora",
+  "version": "1.0.0",
+  "description": "Maison Evora — 1:1 High-Performance Architectural & Interior Design Studio Showcase",
+  "main": "preview.js",
+  "scripts": {
+    "start": "node preview.js",
+    "dev": "node preview.js"
+  },
+  "keywords": [
+    "architecture",
+    "interior-design",
+    "framer",
+    "lenis",
+    "smooth-scroll",
+    "luxury",
+    "portfolio",
+    "nextjs",
+    "showcase"
+  ],
+  "author": "BlackFlame-07",
+  "license": "MIT"
+}
